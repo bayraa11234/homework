@@ -147,7 +147,7 @@ a{
     filter: grayscale(0);
 }
 .blog-card{
-    background-color: #EDF7FF;;
+    background-color: #EDF7FF;
     border-radius: 20px;
 }
 .blog-card:hover{
